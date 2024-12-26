@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="">
+<img src="/assets/img/kegembok_transparent.png" width="500">
 
 </p>
 
