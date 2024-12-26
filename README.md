@@ -1,5 +1,11 @@
-
 # Kegembok Ransomware
+
+<p align="center">
+
+<img src="">
+
+</p>
+
 Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key.
 the program looklike :
 ```
