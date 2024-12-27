@@ -29,10 +29,10 @@ This Compiled from Linux for further informations in golang documantation
 #### 2. Map into cloned Directory Compile using go to build for
 Command above is for windows
 ```bash 
-  # For Encryptor 
-  GOOS=windows GOARCH=amd64 go build ./bin/encryptor/encrypt.go
-  # For Decryptor 
-  GOOS=windows GOARCH=amd64 go build ./bin/decryptor/decrypt.go
+# For Encryptor 
+GOOS=windows GOARCH=amd64 go build ./bin/encryptor/encrypt.go
+# For Decryptor 
+GOOS=windows GOARCH=amd64 go build ./bin/decryptor/decrypt.go
 ```
 Command above is for Linux
 ```
