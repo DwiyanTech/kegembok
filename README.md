@@ -13,12 +13,9 @@ Kegembok Ransomware Encryptor v1.0 by dwiyantech
 Note : This Ransomware is for educational Purposes only
 Author not responsible for any consequences that may occur.
 
-
 Usage : 
 --target-dir [target_path_directory] (Mandatory)
 --key [string_key_toencrypt] (default: kegembok-cuy)
-
-
 ```
 ## Package Used
 All package used go core package, so no need additionals download package for this program, for further more visit golang docs : https://go.dev/doc/
@@ -62,7 +59,6 @@ Windows
 ```
 encrypt.exe -targetdir="Path Files" -key="Your Key String"
 decrypt.exe -targetdir="Path Files" -key="Your Key String"
-
 ```
 
 ## Contributing
