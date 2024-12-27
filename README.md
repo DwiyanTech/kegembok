@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="/assets/img/kegembok_logo.png" width="500">
+<img src="/assets/img/kegembok_logo.png">
 
 </p>
 
