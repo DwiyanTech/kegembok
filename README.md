@@ -1,4 +1,4 @@
-# Kegembok Ransomware
+# Kegembok: A Golang-Based Ransomware for Blue Team Simulation
 
 <p align="center">
 
